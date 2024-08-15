@@ -1,0 +1,44 @@
+﻿  Block.cpp
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(12,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(12,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(20,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(21,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(28,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(28,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Block.cpp(129,9): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Fire.cpp
+  Goblin.cpp
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Goblin.cpp(7,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Goblin.cpp(8,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Goblin.cpp(9,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\Goblin.cpp(9,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  HealthOfGoblin.cpp
+  Heart.cpp
+  main.cpp
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(148,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(193,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(200,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(279,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(284,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(289,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(293,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(313,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(314,77): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(317,82): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(326,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\SFML_PROJECT\main.cpp(399,21): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Timer.cpp
+  Создание кода...
+  SFML_PROJECT.vcxproj -> C:\Users\Bunakov Egor\Desktop\Space Creature!!!!!!!!!\Space Creature\x64\Debug\SFML_PROJECT.exe
